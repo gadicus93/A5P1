@@ -58,9 +58,9 @@
 
             <q-item-section>
               <q-item-label class="text-subtitle1">
-                <strong>Danny Connell</strong>
+                <strong>Gage Dicus</strong>
                 <span class="text-grey-7">
-                  @danny__connell
+                  @Gage_Dicus
                   <br class="lt-md">&bull; {{ qweet.date | relativeDate }}
                 </span>
               </q-item-label>
